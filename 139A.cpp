@@ -13,8 +13,7 @@ int main(){
     int j,s=0;
     for(j=1;;){
 
-        if(s>=n) break;
-        else{
+
             s+=a[j];
             //cout<<s;
         }
